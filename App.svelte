@@ -29,7 +29,7 @@
 
 <div class="container">
 	<div class="phone">
-		<h1>Photo gallery</h1>
+		<h1>Photo Gallery</h1>
 
 		<div class="grid">
 			{#each images as image}
